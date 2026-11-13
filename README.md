@@ -1,5 +1,12 @@
 # z-mobbin-frontend-design
 
+## ✨ 功能概览
+
+- 按用户任务查阅 Mobbin Flows，再用 Screens 补充关键状态。
+- 记录产品、原始链接、已看步骤和覆盖范围，区分观察与推断。
+- 将参考转化为适合目标产品的设计决策，不假定受限内容已覆盖。
+> 功能概览由 [Lobe Readme Wizard](https://github.com/lobehub/lobe-readme-wizard) 的 Markdown 生成器生成，内容依据本仓库资料整理。
+
 为 Web 前端设计与改版调研 Mobbin 案例，将实际看过的产品流程转化成有来源、可追溯的设计决策。
 
 ## 适用场景
